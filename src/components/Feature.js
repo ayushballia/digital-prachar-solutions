@@ -4,31 +4,31 @@ const features = [
   {
     name: 'SEO',
     description:
-      'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+      'Drive organic traffic with targeted keywords and optimized website content.',
     icon: MagnifyingGlassIcon,
   },
   {
     name: 'content marketing',
     description:
-      'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+      'Craft engaging and valuable content to captivate and inform your audience.',
     icon: DocumentTextIcon,
   },
   {
-    name: 'social media marketing',
+    name: 'Social Media Marketing for enhanced engagement',
     description:
-      'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+      'Create interactive campaigns to build community and foster brand loyalty.',
     icon: ShareIcon,
   },
   {
     name: 'PPC advertising',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'ROI by targeting the right audience with well-timed and optimized ads.',
     icon: CurrencyDollarIcon,
   },
   {
     name: 'influencer marketing',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'Partner with trusted influencers to enhance credibility and reach niche markets.',
     icon: UserGroupIcon,
   },
 ]
