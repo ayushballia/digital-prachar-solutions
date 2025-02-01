@@ -19,7 +19,7 @@ export default function Example() {
                   Boost to your Business
                 </p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
-                  We always strive to exceed our client's expectations.
+                  We always strive to exceed our client&apos;s expectations.
                 </p>
               </div>
               <div className="relative min-h-[30rem] w-full grow [container-type:inline-size] max-lg:mx-auto max-lg:max-w-sm">
