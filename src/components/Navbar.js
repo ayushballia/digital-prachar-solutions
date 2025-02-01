@@ -48,7 +48,7 @@ export default function Example() {
                     aria-current={item.current ? 'page' : undefined}
                     className={classNames(
                       item.current ? 'bg-[#d34c50] text-white' : 'text-gray-600 hover:bg-[#d34c50] hover:text-white',
-                      'uppercase rounded-md px-2 py-1 text-base font-bold',
+                      'uppercase rounded-md px-2 py-1 text-base font-bold z-40',
                     )}
                   >
                     {item.name}
@@ -66,7 +66,7 @@ export default function Example() {
               <span className="sr-only">View notifications</span>
               <PhoneIcon aria-hidden="true" className="size-6" />
             </button>
-            <a href='tel:1234567890' className='text-xl font-bold text-[#d34c50]'>123-456-7890</a>
+            <a href='tel' className='text-xl font-bold text-[#d34c50]'></a>
 
             {/* Profile dropdown */}
             {/* <Menu as="div" className="relative ml-3">
